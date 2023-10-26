@@ -1,0 +1,7 @@
+Data: Thu Oct 26 2023 17:50:21 GMT-0300 (GMT-03:00)
+Valor: 100 
+ Tipo:depositoData: Thu Oct 26 2023 17:50:21 GMT-0300 (GMT-03:00)
+Valor: 200 
+ Tipo:retiradaData: Thu Oct 26 2023 17:50:21 GMT-0300 (GMT-03:00)
+Valor: 300 
+ Tipo:transferencia
